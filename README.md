@@ -1,5 +1,4 @@
 # Hashtags_Mapreduce
-# Hashtags_Mapreduce
 
 ##This map reduce program runs on twitter data collected for last one year. This program do the following thing
 ##For each day of the week, what was the most mentioned hashtag? Hour of the day?
